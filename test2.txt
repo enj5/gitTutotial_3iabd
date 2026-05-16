@@ -1,1 +1,2 @@
 Test du fetch+merge
+OK ça marche!
